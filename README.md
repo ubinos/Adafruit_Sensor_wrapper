@@ -1,2 +1,2 @@
-Adafruit Sensor Wrapper
+Adafruit_Sensor Wrapper
 ===============================================================================
